@@ -15,4 +15,10 @@
     {
         echo "AAAA";
     }
+
+
+    public function BBBB()
+    {
+        echo "BBBB";
+    }
 ?>
