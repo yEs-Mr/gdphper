@@ -10,4 +10,9 @@
     {
         echo "common";
     }
+
+    public function AAAA()
+    {
+        echo "AAAA";
+    }
 ?>
