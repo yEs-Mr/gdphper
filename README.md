@@ -15,4 +15,9 @@
     {
         echo "AAAA";
     }
+
+    public function BBB()
+    {
+        echo "BBB";
+    }
 ?>
