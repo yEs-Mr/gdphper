@@ -20,4 +20,11 @@
     {
         echo "BBB";
     }
+
+
+    pbulic $day;
+
+    public function $mon;
+
+    public function $year;
 ?>
