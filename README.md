@@ -24,7 +24,13 @@
 
     pbulic $day;
 
-    public function $mon;
+    public $mon;
 
-    public function $year;
+    public $year;
+
+    public $a;
+
+    public $b;
+
+    public $c;
 ?>
